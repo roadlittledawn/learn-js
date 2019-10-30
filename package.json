@@ -1,0 +1,32 @@
+{
+  "name": "learn-js",
+  "version": "1.0.0",
+  "description": "",
+  "private": true,
+  "dependencies": {
+    "eslint": "^6.6.0",
+    "fs": "0.0.1-security",
+    "lodash": "^4.17.15"
+  },
+  "devDependencies": {
+    "webpack": "^4.41.2",
+    "webpack-cli": "^3.3.9"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "webpack",
+    "watch": "webpack --watch",
+    "reduce": "node src/reduce.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/roadlittledawn/learn-js.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/roadlittledawn/learn-js/issues"
+  },
+  "homepage": "https://github.com/roadlittledawn/learn-js#readme"
+}
