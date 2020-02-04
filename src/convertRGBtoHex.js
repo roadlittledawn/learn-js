@@ -18,7 +18,7 @@ function rgb(r, g, b){
 
 // Best solution
 
-function rgb(r, g, b){
+function rgb2(r, g, b){
   return toHex(r)+toHex(g)+toHex(b);
 }
 
@@ -28,5 +28,5 @@ function toHex(d) {
     return  ("0"+(Number(d).toString(16))).slice(-2).toUpperCase()
 }
   
-  console.log(rgb(0, 0, -20))
+  console.log(rgb2(32, 123, 12))
   
