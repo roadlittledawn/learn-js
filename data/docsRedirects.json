@@ -1,0 +1,1810 @@
+{
+  "docs": [
+    {
+      "redirect": {
+        "from": "users/austin-shaefer",
+        "to": "user/86"
+      }
+    },
+    {
+      "redirect": {
+        "from": "users/wridrejop",
+        "to": "user/131"
+      }
+    },
+    {
+      "redirect": {
+        "from": "users/cugoshihi",
+        "to": "user/116"
+      }
+    },
+    {
+      "redirect": {
+        "from": "users/ed-aitor",
+        "to": "user/131"
+      }
+    },
+    {
+      "redirect": {
+        "from": "docs/apps-for-new-relic/insights-iphone-app",
+        "to": "node/9216"
+      }
+    },
+    {
+      "redirect": {
+        "from": "docs/insights-ios-app/insights-iphone-app",
+        "to": "node/9216"
+      }
+    },
+    {
+      "redirect": {
+        "from": "docs/apps-for-new-relic/insights-app-features",
+        "to": "node/9216"
+      }
+    },
+    {
+      "redirect": {
+        "from": "docs/insights-ios-app/insights-app-features",
+        "to": "node/9216"
+      }
+    },
+    {
+      "redirect": {
+        "from": "docs/apps-for-new-relic/insights-iphone-authentication",
+        "to": "node/9216"
+      }
+    },
+    {
+      "redirect": {
+        "from": "docs/server/server-monitor-installation-windows",
+        "to": "node/1031"
+      }
+    },
+    {
+      "redirect": {
+        "from": "docs/windows-server-monitor/server-monitor-installation-windows",
+        "to": "node/1031"
+      }
+    },
+    {
+      "redirect": {
+        "from": "docs/windows-server-monitoring/upgrading-the-windows-server-monitor",
+        "to": "node/1031"
+      }
+    },
+    {
+      "redirect": {
+        "from": "docs/windows-server-monitoring/installing-new-relic-servers-windows",
+        "to": "node/1031"
+      }
+    },
+    {
+      "redirect": {
+        "from": "docs/windows-server-monitoring/new-relic-for-windows-server-monitoring",
+        "to": "node/10471"
+      }
+    },
+    {
+      "redirect": {
+        "from": "docs/windows-server-monitoring/new-relic-servers-windows",
+        "to": "node/10471"
+      }
+    },
+    {
+      "redirect": {
+        "from": "windows-server-monitoring/server-overview-dashboard",
+        "to": "node/1051"
+      }
+    },
+    {
+      "redirect": {
+        "from": "docs/features/agent-sdk",
+        "to": "node/1056"
+      }
+    },
+    {
+      "redirect": {
+        "from": "docs/agent-sdk/agent-sdk",
+        "to": "node/1056"
+      }
+    },
+    {
+      "redirect": {
+        "from": "docs/insights-ios-app/insights-iphone-authentication",
+        "to": "node/9216"
+      }
+    },
+    {
+      "redirect": {
+        "from": "docs/apps-for-new-relic/insights-with-partners",
+        "to": "node/9216"
+      }
+    },
+    {
+      "redirect": {
+        "from": "docs/insights-ios-app/insights-with-partners",
+        "to": "node/9216"
+      }
+    },
+    {
+      "redirect": {
+        "from": "docs/windows-server-monitoring/using-the-server-monitor-ui",
+        "to": "node/9911"
+      }
+    },
+    {
+      "redirect": {
+        "from": "docs/apps-for-new-relic/new-relic-iOS-app",
+        "to": "node/976"
+      }
+    },
+    {
+      "redirect": {
+        "from": "docs/apps-for-new-relic/new-relic-for-iphone",
+        "to": "node/976"
+      }
+    },
+    {
+      "redirect": {
+        "from": "docs/apps-for-new-relic/new-relic-iphone-app",
+        "to": "node/976"
+      }
+    },
+    {
+      "redirect": {
+        "from": "docs/apps-for-new-relic/new-relic-for-ipad",
+        "to": "node/976"
+      }
+    },
+    {
+      "redirect": {
+        "from": "docs/apps-for-new-relic/new-relic-ipad-app",
+        "to": "node/976"
+      }
+    },
+    {
+      "redirect": {
+        "from": "docs/ios/new-relic-for-ipad",
+        "to": "node/976"
+      }
+    },
+    {
+      "redirect": {
+        "from": "docs/ios/new-relic-for-iphone",
+        "to": "node/976"
+      }
+    },
+    {
+      "redirect": {
+        "from": "docs/new-relic-ios-app/new-relic-iOS-app",
+        "to": "node/976"
+      }
+    },
+    {
+      "redirect": {
+        "from": "docs/ios/ios-app-features",
+        "to": "node/981"
+      }
+    },
+    {
+      "redirect": {
+        "from": "docs/apps-for-new-relic/ios-app-features",
+        "to": "node/981"
+      }
+    },
+    {
+      "redirect": {
+        "from": "docs/new-relic-ios-app/ios-app-features",
+        "to": "node/981"
+      }
+    },
+    {
+      "redirect": {
+        "from": "docs/ios/ios-with-heroku",
+        "to": "node/991"
+      }
+    },
+    {
+      "redirect": {
+        "from": "docs/ios/ios-with-partners",
+        "to": "node/991"
+      }
+    },
+    {
+      "redirect": {
+        "from": "docs/apps-for-new-relic/ios-with-partners",
+        "to": "node/991"
+      }
+    },
+    {
+      "redirect": {
+        "from": "docs/new-relic-ios-app/ios-with-partners",
+        "to": "node/991"
+      }
+    },
+    {
+      "redirect": {
+        "from": "docs/apps-for-new-relic/ios-user-settings-and-authentication",
+        "to": "node/986"
+      }
+    },
+    {
+      "redirect": {
+        "from": "docs/ios/ios-user-settings-and-authentication",
+        "to": "node/986"
+      }
+    },
+    {
+      "redirect": {
+        "from": "docs/features/libjson",
+        "to": "node/3801"
+      }
+    },
+    {
+      "redirect": {
+        "from": "docs/new-relic-ios-app/ios-user-settings-and-authentication",
+        "to": "node/986"
+      }
+    },
+    {
+      "redirect": {
+        "from": "docs/agent-sdk/libjson",
+        "to": "node/3801"
+      }
+    },
+    {
+      "redirect": {
+        "from": "docs/ios/ios-kb-100",
+        "to": "node/1001"
+      }
+    },
+    {
+      "redirect": {
+        "from": "docs/apps-for-new-relic/ios-kb-100",
+        "to": "node/1001"
+      }
+    },
+    {
+      "redirect": {
+        "from": "docs/windows-server-monitoring/windows-security-considerations",
+        "to": "node/11326"
+      }
+    },
+    {
+      "redirect": {
+        "from": "docs/new-relic-ios-app/ios-kb-100",
+        "to": "node/1001"
+      }
+    },
+    {
+      "redirect": {
+        "from": "docs/apps-for-new-relic/new-relic-for-android",
+        "to": "node/1006"
+      }
+    },
+    {
+      "redirect": {
+        "from": "docs/apps-for-new-relic/new-relic-android-app",
+        "to": "node/1006"
+      }
+    },
+    {
+      "redirect": {
+        "from": "docs/new-relic-android-app/new-relic-android-app",
+        "to": "node/1006"
+      }
+    },
+    {
+      "redirect": {
+        "from": "docs/apps-for-new-relic/android-app-features",
+        "to": "node/1011"
+      }
+    },
+    {
+      "redirect": {
+        "from": "docs/new-relic-android-app/android-app-features",
+        "to": "node/1011"
+      }
+    },
+    {
+      "redirect": {
+        "from": "docs/windows-server-monitoring/windows-server-monitor-configuration",
+        "to": "node/9896"
+      }
+    },
+    {
+      "redirect": {
+        "from": "docs/subscriptions/getting-started-with-your-new-relic-account",
+        "to": "node/1081"
+      }
+    },
+    {
+      "redirect": {
+        "from": "docs/apps-for-new-relic/android-alerts",
+        "to": "node/1026"
+      }
+    },
+    {
+      "redirect": {
+        "from": "docs/subscriptions/creating-your-new-relic-account",
+        "to": "node/1081"
+      }
+    },
+    {
+      "redirect": {
+        "from": "docs/new-relic-android-app/android-alerts",
+        "to": "node/1026"
+      }
+    },
+    {
+      "redirect": {
+        "from": "docs/windows-server-monitoring/windows-server-monitor-faq",
+        "to": "node/10006"
+      }
+    },
+    {
+      "redirect": {
+        "from": "subscriptions/license-key",
+        "to": "node/1096"
+      }
+    },
+    {
+      "redirect": {
+        "from": "docs/rubicon/viewing-dashboards",
+        "to": "node/1091"
+      }
+    },
+    {
+      "redirect": {
+        "from": "docs/insights/viewing-dashboards",
+        "to": "node/1091"
+      }
+    },
+    {
+      "redirect": {
+        "from": "docs/rubicon/using-nrql",
+        "to": "node/1111"
+      }
+    },
+    {
+      "redirect": {
+        "from": "docs/subscriptions/users-and-roles",
+        "to": "node/1101"
+      }
+    },
+    {
+      "redirect": {
+        "from": "docs/insights/using-widgets",
+        "to": "node/1106"
+      }
+    },
+    {
+      "redirect": {
+        "from": "docs/insights/using-nrql",
+        "to": "node/1136"
+      }
+    },
+    {
+      "redirect": {
+        "from": "docs/subscriptions/adding-and-updating-users",
+        "to": "node/1116"
+      }
+    },
+    {
+      "redirect": {
+        "from": "docs/rubicon/remote-queries",
+        "to": "node/1121"
+      }
+    },
+    {
+      "redirect": {
+        "from": "docs/insights/remote-queries",
+        "to": "node/1121"
+      }
+    },
+    {
+      "redirect": {
+        "from": "docs/rubicon/query-history",
+        "to": "node/1131"
+      }
+    },
+    {
+      "redirect": {
+        "from": "docs/insights/query-history",
+        "to": "node/1131"
+      }
+    },
+    {
+      "redirect": {
+        "from": "docs/subscriptions/subscription-pricing",
+        "to": "node/1126"
+      }
+    },
+    {
+      "redirect": {
+        "from": "docs/rubicon/nrql-reference",
+        "to": "node/1136"
+      }
+    },
+    {
+      "redirect": {
+        "from": "docs/server/windows-server-monitor-metrics",
+        "to": "node/10006"
+      }
+    },
+    {
+      "redirect": {
+        "from": "docs/windows-server-monitoring/windows-server-monitor-metrics",
+        "to": "node/10006"
+      }
+    },
+    {
+      "redirect": {
+        "from": "docs/subscriptions/mixing-subscription-levels",
+        "to": "node/1146"
+      }
+    },
+    {
+      "redirect": {
+        "from": "docs/subscriptions/supporting-multiple-subscription-levels",
+        "to": "node/1146"
+      }
+    },
+    {
+      "redirect": {
+        "from": "docs/rubicon/project-rubicon",
+        "to": "node/1151"
+      }
+    },
+    {
+      "redirect": {
+        "from": "docs/subscriptions/can-i-mix-pro-standard-and-lite-in-one-account",
+        "to": "node/1146"
+      }
+    },
+    {
+      "redirect": {
+        "from": "docs/insights/newrelic-insights",
+        "to": "node/1151"
+      }
+    },
+    {
+      "redirect": {
+        "from": "docs/subscriptions/creating-multiple-accounts",
+        "to": "node/1146"
+      }
+    },
+    {
+      "redirect": {
+        "from": "docs/insights/managing-filters",
+        "to": "node/1166"
+      }
+    },
+    {
+      "redirect": {
+        "from": "docs/subscriptions/creating-enterprise-sub-accounts",
+        "to": "node/1161"
+      }
+    },
+    {
+      "redirect": {
+        "from": "docs/windows-server-monitoring/wsm-kb-100",
+        "to": "taxonomy/term/6951"
+      }
+    },
+    {
+      "redirect": {
+        "from": "docs/subscriptions/creating-volume-sub-accounts",
+        "to": "node/1161"
+      }
+    },
+    {
+      "redirect": {
+        "from": "docs/subscriptions/creating-sub-accounts",
+        "to": "node/1161"
+      }
+    },
+    {
+      "redirect": {
+        "from": "docs/windows-server-monitoring/windows-server-monitor-known-issues",
+        "to": "taxonomy/term/6951"
+      }
+    },
+    {
+      "redirect": {
+        "from": "docs/rubicon/known-limitations",
+        "to": "taxonomy/term/2176"
+      }
+    },
+    {
+      "redirect": {
+        "from": "docs/insights/known-limitations",
+        "to": "taxonomy/term/2176"
+      }
+    },
+    {
+      "redirect": {
+        "from": "docs/rubicon/rubicon-interface",
+        "to": "node/1176"
+      }
+    },
+    {
+      "redirect": {
+        "from": "docs/insights/insights-interface",
+        "to": "node/1176"
+      }
+    },
+    {
+      "redirect": {
+        "from": "docs/windows-server-monitoring/wsm-kb-101",
+        "to": "taxonomy/term/6951"
+      }
+    },
+    {
+      "redirect": {
+        "from": "docs/rubicon/inserting-events",
+        "to": "node/17376"
+      }
+    },
+    {
+      "redirect": {
+        "from": "docs/insights/inserting-events",
+        "to": "node/17376"
+      }
+    },
+    {
+      "redirect": {
+        "from": "docs/rubicon/data-explorer",
+        "to": "node/8691"
+      }
+    },
+    {
+      "redirect": {
+        "from": "docs/insights/data-explorer",
+        "to": "node/8691"
+      }
+    },
+    {
+      "redirect": {
+        "from": "docs/insights/exploring-data",
+        "to": "node/8691"
+      }
+    },
+    {
+      "redirect": {
+        "from": "docs/alerts/account-email-settings",
+        "to": "node/1206"
+      }
+    },
+    {
+      "redirect": {
+        "from": "docs/mobile-apps/mobile-app-account-email",
+        "to": "node/1206"
+      }
+    },
+    {
+      "redirect": {
+        "from": "docs/subscriptions/account-email-settings",
+        "to": "node/1206"
+      }
+    },
+    {
+      "redirect": {
+        "from": "docs/rubicon/data-formatter",
+        "to": "node/1211"
+      }
+    },
+    {
+      "redirect": {
+        "from": "docs/insights/data-formatter",
+        "to": "node/1211"
+      }
+    },
+    {
+      "redirect": {
+        "from": "docs/rubicon/custom-attributes",
+        "to": "node/1226"
+      }
+    },
+    {
+      "redirect": {
+        "from": "docs/windows-server-monitoring/wsm-kb-102",
+        "to": "taxonomy/term/6951"
+      }
+    },
+    {
+      "redirect": {
+        "from": "docs/insights/custom-attributes",
+        "to": "node/1226"
+      }
+    },
+    {
+      "redirect": {
+        "from": "docs/subscriptions/account-user-settings",
+        "to": "node/1241"
+      }
+    },
+    {
+      "redirect": {
+        "from": "docs/subscriptions/changing-passwords-and-user-preferences",
+        "to": "node/1241"
+      }
+    },
+    {
+      "redirect": {
+        "from": "docs/windows-server-monitoring/wsm-kb-104",
+        "to": "node/15266"
+      }
+    },
+    {
+      "redirect": {
+        "from": "docs/subscriptions/setting-session-timeouts",
+        "to": "node/1256"
+      }
+    },
+    {
+      "redirect": {
+        "from": "docs/php/wordpress-users-and-new-relic",
+        "to": "node/1266"
+      }
+    },
+    {
+      "redirect": {
+        "from": "docs/general/how-long-does-new-relic-keep-my-data",
+        "to": "node/1261"
+      }
+    },
+    {
+      "redirect": {
+        "from": "docs/subscriptions/data-retention",
+        "to": "node/1261"
+      }
+    },
+    {
+      "redirect": {
+        "from": "docs/php/upgrading-your-php-agent",
+        "to": "node/1276"
+      }
+    },
+    {
+      "redirect": {
+        "from": "docs/php/the-newrelic-install-script",
+        "to": "node/1281"
+      }
+    },
+    {
+      "redirect": {
+        "from": "docs/php/newrelic-daemon-startup-modes",
+        "to": "node/1286"
+      }
+    },
+    {
+      "redirect": {
+        "from": "docs/php/starting-the-php-daemon",
+        "to": "node/1286"
+      }
+    },
+    {
+      "redirect": {
+        "from": "docs/php/drupal",
+        "to": "node/1291"
+      }
+    },
+    {
+      "redirect": {
+        "from": "docs/subscriptions/saml-service-providers",
+        "to": "node/1296"
+      }
+    },
+    {
+      "redirect": {
+        "from": "docs/php/running-the-install-script-in-silent-mode",
+        "to": "node/1301"
+      }
+    },
+    {
+      "redirect": {
+        "from": "docs/php/quick-installation-instructions-advanced-users",
+        "to": "node/1306"
+      }
+    },
+    {
+      "redirect": {
+        "from": "docs/php/proxy-daemon-newreliccfg-settings",
+        "to": "node/1311"
+      }
+    },
+    {
+      "redirect": {
+        "from": "docs/subscriptions/new-relic-partners-and-saml-sso",
+        "to": "node/1321"
+      }
+    },
+    {
+      "redirect": {
+        "from": "docs/subscriptions/setting-up-sso",
+        "to": "node/1331"
+      }
+    },
+    {
+      "redirect": {
+        "from": "docs/subscriptions/adding-users-to-saml-accounts",
+        "to": "node/1346"
+      }
+    },
+    {
+      "redirect": {
+        "from": "docs/subscriptions/configuring-saml-with-multiple-accounts",
+        "to": "node/1351"
+      }
+    },
+    {
+      "redirect": {
+        "from": "docs/subscriptions/maintaining-sso-settings",
+        "to": "node/1356"
+      }
+    },
+    {
+      "redirect": {
+        "from": "docs/subscriptions/deleting-the-sso-configuration",
+        "to": "node/1361"
+      }
+    },
+    {
+      "redirect": {
+        "from": "docs/server/changing-the-linux-server-name",
+        "to": "node/9896#display_name"
+      }
+    },
+    {
+      "redirect": {
+        "from": "docs/server/server-monitor-installation-other-linux",
+        "to": "node/1376"
+      }
+    },
+    {
+      "redirect": {
+        "from": "docs/server/installation-other-linux",
+        "to": "node/1376"
+      }
+    },
+    {
+      "redirect": {
+        "from": "docs/server/installation-redhat-and-centos",
+        "to": "node/1431"
+      }
+    },
+    {
+      "redirect": {
+        "from": "docs/server/server-monitor-installation-redhat-and-centos",
+        "to": "node/1431"
+      }
+    },
+    {
+      "redirect": {
+        "from": "docs/php/php-custom-metric-collection",
+        "to": "node/1391"
+      }
+    },
+    {
+      "redirect": {
+        "from": "docs/php/php-custom-instrumentation",
+        "to": "node/1391"
+      }
+    },
+    {
+      "redirect": {
+        "from": "docs/php/php-agent-phpini-settings",
+        "to": "node/1416"
+      }
+    },
+    {
+      "redirect": {
+        "from": "docs/php/php-agent-installation-ubuntu-and-debian",
+        "to": "node/1421"
+      }
+    },
+    {
+      "redirect": {
+        "from": "docs/php/php-agent-installation-tar-files",
+        "to": "node/1426"
+      }
+    },
+    {
+      "redirect": {
+        "from": "docs/server/installation-ubuntu-and-debian",
+        "to": "node/1431"
+      }
+    },
+    {
+      "redirect": {
+        "from": "docs/server/server-monitor-installation-ubuntu-and-debian",
+        "to": "node/1431"
+      }
+    },
+    {
+      "redirect": {
+        "from": "docs/php/php-agent-installation-redhat-and-centos",
+        "to": "node/1436"
+      }
+    },
+    {
+      "redirect": {
+        "from": "docs/php/php-agent-installation-non-standard-php",
+        "to": "node/1441"
+      }
+    },
+    {
+      "redirect": {
+        "from": "docs/php/php-agent-faq",
+        "to": "taxonomy/term/2406"
+      }
+    },
+    {
+      "redirect": {
+        "from": "docs/server/new-relic-for-server-monitoring",
+        "to": "taxonomy/term/6906"
+      }
+    },
+    {
+      "redirect": {
+        "from": "docs/php/php-agent-enabling-and-disabling-attributes",
+        "to": "node/1461"
+      }
+    },
+    {
+      "redirect": {
+        "from": "docs/server/new-relic-servers",
+        "to": "node/1456"
+      }
+    },
+    {
+      "redirect": {
+        "from": "docs/php/php-agent-attributes",
+        "to": "node/1471"
+      }
+    },
+    {
+      "redirect": {
+        "from": "docs/server/server-monitor-configuration",
+        "to": "node/9896"
+      }
+    },
+    {
+      "redirect": {
+        "from": "docs/php/php-agent-attribute-examples",
+        "to": "node/1481"
+      }
+    },
+    {
+      "redirect": {
+        "from": "docs/server/server-monitor-faq",
+        "to": "node/9911"
+      }
+    },
+    {
+      "redirect": {
+        "from": "docs/php/the-php-api",
+        "to": "taxonomy/term/7111"
+      }
+    },
+    {
+      "redirect": {
+        "from": "docs/php/php-agent-api",
+        "to": "taxonomy/term/7111"
+      }
+    },
+    {
+      "redirect": {
+        "from": "docs/php/per-directory-settings",
+        "to": "node/1501"
+      }
+    },
+    {
+      "redirect": {
+        "from": "docs/server/server-monitor-known-issues",
+        "to": "taxonomy/term/6951"
+      }
+    },
+    {
+      "redirect": {
+        "from": "docs/php/page-load-timing-in-php",
+        "to": "node/1506"
+      }
+    },
+    {
+      "redirect": {
+        "from": "docs/php/real-user-monitoring-in-php",
+        "to": "node/1506"
+      }
+    },
+    {
+      "redirect": {
+        "from": "docs/docs/php-agent",
+        "to": "node/1516"
+      }
+    },
+    {
+      "redirect": {
+        "from": "docs/docs/php-public-beta",
+        "to": "node/1516"
+      }
+    },
+    {
+      "redirect": {
+        "from": "docs/docs/upgrade-php-agent",
+        "to": "node/1516"
+      }
+    },
+    {
+      "redirect": {
+        "from": "docs/php/preparation",
+        "to": "node/1516"
+      }
+    },
+    {
+      "redirect": {
+        "from": "docs/php/new-relic-for-php",
+        "to": "node/1516"
+      }
+    },
+    {
+      "redirect": {
+        "from": "docs/general/why-do-i-see-two-newrelic-daemon-processes-when-using-the-php-agent",
+        "to": "node/1521"
+      }
+    },
+    {
+      "redirect": {
+        "from": "docs/php/new-relic-daemon-processes",
+        "to": "node/1521"
+      }
+    },
+    {
+      "redirect": {
+        "from": "docs/php/multiple-accounts",
+        "to": "node/1531"
+      }
+    },
+    {
+      "redirect": {
+        "from": "docs/server/upgrading-the-server-monitor",
+        "to": "node/10701"
+      }
+    },
+    {
+      "redirect": {
+        "from": "docs/php/known-php-limitations",
+        "to": "node/1546"
+      }
+    },
+    {
+      "redirect": {
+        "from": "docs/framework-developers-integrated-support-for-new-relic",
+        "to": "node/1551"
+      }
+    },
+    {
+      "redirect": {
+        "from": "docs/php/framework-developers-integrated-support-for-new-relic",
+        "to": "node/1551"
+      }
+    },
+    {
+      "redirect": {
+        "from": "docs/nodejs/configuring-nodejs-with-environment-variables",
+        "to": "node/1566"
+      }
+    },
+    {
+      "redirect": {
+        "from": "docs/nodejs/customizing-your-nodejs-config-file",
+        "to": "node/1566"
+      }
+    },
+    {
+      "redirect": {
+        "from": "docs/nodejs/page-load-timing-in-nodejs",
+        "to": "node/1571"
+      }
+    },
+    {
+      "redirect": {
+        "from": "docs/nodejs/nodejs-configuration-options",
+        "to": "node/1566"
+      }
+    },
+    {
+      "redirect": {
+        "from": "docs/nodejs/nodejs-agent-on-microsoft-azure",
+        "to": "node/1581"
+      }
+    },
+    {
+      "redirect": {
+        "from": "docs/nodejs/nodejs-agent-on-heroku",
+        "to": "node/1586"
+      }
+    },
+    {
+      "redirect": {
+        "from": "docs/nodejs/nodejs-transaction-naming-api",
+        "to": "node/1596"
+      }
+    },
+    {
+      "redirect": {
+        "from": "docs/nodejs/nodejs-agent-api",
+        "to": "node/1596"
+      }
+    },
+    {
+      "redirect": {
+        "from": "docs/docs/security",
+        "to": "node/1591"
+      }
+    },
+    {
+      "redirect": {
+        "from": "docs/nodejs/new-relic-for-nodejs",
+        "to": "node/1601"
+      }
+    },
+    {
+      "redirect": {
+        "from": "docs/subscriptions/security",
+        "to": "node/1591"
+      }
+    },
+    {
+      "redirect": {
+        "from": "docs/nodejs/installing-and-maintaining-nodejs",
+        "to": "node/3896"
+      }
+    },
+    {
+      "redirect": {
+        "from": "docs/subscriptions/data-security",
+        "to": "node/1591"
+      }
+    },
+    {
+      "redirect": {
+        "from": "docs/dotnet/azure-cloud-services",
+        "to": "node/9546"
+      }
+    },
+    {
+      "redirect": {
+        "from": "docs/dotnet/updating-the-net-agent",
+        "to": "node/1626"
+      }
+    },
+    {
+      "redirect": {
+        "from": "docs/dotnet/processing-queue",
+        "to": "node/3766"
+      }
+    },
+    {
+      "redirect": {
+        "from": "docs/dotnet/processing-queue-cs",
+        "to": "node/3766"
+      }
+    },
+    {
+      "redirect": {
+        "from": "docs/subscriptions/high-security",
+        "to": "node/1636"
+      }
+    },
+    {
+      "redirect": {
+        "from": "docs/dotnet/real-user-monitoring-in-net",
+        "to": "node/1646"
+      }
+    },
+    {
+      "redirect": {
+        "from": "docs/dotnet/page-load-timing-in-net",
+        "to": "node/1646"
+      }
+    },
+    {
+      "redirect": {
+        "from": "docs/dotnet/new-relic-net-status-monitor",
+        "to": "node/1651"
+      }
+    },
+    {
+      "redirect": {
+        "from": "docs/dotnet/new-relic-net-installation",
+        "to": "node/19486"
+      }
+    },
+    {
+      "redirect": {
+        "from": "docs/docs/net-support",
+        "to": "node/1666"
+      }
+    },
+    {
+      "redirect": {
+        "from": "docs/dotnet/AgentDocumentation",
+        "to": "node/1666"
+      }
+    },
+    {
+      "redirect": {
+        "from": "docs/dotnet/new-relic-for-net",
+        "to": "node/1666"
+      }
+    },
+    {
+      "redirect": {
+        "from": "docs/subscriptions/security-for-heartbleed-vulnerability",
+        "to": "node/1641"
+      }
+    },
+    {
+      "redirect": {
+        "from": "docs/dotnet/AgentApi",
+        "to": "taxonomy/term/7076"
+      }
+    },
+    {
+      "redirect": {
+        "from": "docs/dotnet/the-net-agent-api",
+        "to": "taxonomy/term/7076"
+      }
+    },
+    {
+      "redirect": {
+        "from": "docs/dotnet/net-agent-api",
+        "to": "taxonomy/term/7076"
+      }
+    },
+    {
+      "redirect": {
+        "from": "docs/docs/installing-the-net-agent-on-azure",
+        "to": "node/9546"
+      }
+    },
+    {
+      "redirect": {
+        "from": "docs/dotnet/installing-the-net-agent-on-azure",
+        "to": "node/9546"
+      }
+    },
+    {
+      "redirect": {
+        "from": "docs/new-relic-browser/new-relic-browser",
+        "to": "node/1711"
+      }
+    },
+    {
+      "redirect": {
+        "from": "docs/plugins/deleting-a-plugin",
+        "to": "node/3276"
+      }
+    },
+    {
+      "redirect": {
+        "from": "docs/dotnet/dotnet-kb-104",
+        "to": "node/15026"
+      }
+    },
+    {
+      "redirect": {
+        "from": "docs/dotnet/dotnet-kb-103",
+        "to": "node/15076"
+      }
+    },
+    {
+      "redirect": {
+        "from": "docs/plugins/getting-plugin-help",
+        "to": "node/1726"
+      }
+    },
+    {
+      "redirect": {
+        "from": "docs/dotnet/dotnet-kb-102",
+        "to": "node/15051"
+      }
+    },
+    {
+      "redirect": {
+        "from": "docs/dotnet/dotnet-kb-101",
+        "to": "node/14891"
+      }
+    },
+    {
+      "redirect": {
+        "from": "docs/plugins/installing-a-plugin",
+        "to": "node/1746"
+      }
+    },
+    {
+      "redirect": {
+        "from": "docs/dotnet/dotnet-custom-transactions",
+        "to": "node/1751"
+      }
+    },
+    {
+      "redirect": {
+        "from": "docs/dotnet/CustomInstrumentation",
+        "to": "node/1756"
+      }
+    },
+    {
+      "redirect": {
+        "from": "docs/dotnet/dotnet-agent-custom-metrics",
+        "to": "node/1756"
+      }
+    },
+    {
+      "redirect": {
+        "from": "docs/dotnet/dotnet-custom-instrumentation",
+        "to": "node/1756"
+      }
+    },
+    {
+      "redirect": {
+        "from": "docs/plugins/installing-an-npi-compatible-plugin",
+        "to": "node/1746"
+      }
+    },
+    {
+      "redirect": {
+        "from": "docs/general/dotnet-agent-configuration",
+        "to": "node/1766"
+      }
+    },
+    {
+      "redirect": {
+        "from": "docs/dotnet/dotnet-agent-configuration",
+        "to": "node/1766"
+      }
+    },
+    {
+      "redirect": {
+        "from": "docs/dotnet/azure-web-sites-beta",
+        "to": "node/9546"
+      }
+    },
+    {
+      "redirect": {
+        "from": "docs/dotnet/azure-web-sites",
+        "to": "node/9546"
+      }
+    },
+    {
+      "redirect": {
+        "from": "docs/plugins/java-plugin-example",
+        "to": "node/1746"
+      }
+    },
+    {
+      "redirect": {
+        "from": "docs/plugins/java-plugin-installation-example",
+        "to": "node/1746"
+      }
+    },
+    {
+      "redirect": {
+        "from": "docs/features/security-with-real-user-monitoring",
+        "to": "node/1781"
+      }
+    },
+    {
+      "redirect": {
+        "from": "docs/new-relic-browser/security-for-new-relic-browser",
+        "to": "node/1781"
+      }
+    },
+    {
+      "redirect": {
+        "from": "docs/plugins/plugin-feedback-policy",
+        "to": "node/3891"
+      }
+    },
+    {
+      "redirect": {
+        "from": "docs/new-relic-browser/browser-settings",
+        "to": "node/1791"
+      }
+    },
+    {
+      "redirect": {
+        "from": "docs/python/status-of-python-agent",
+        "to": "node/1801"
+      }
+    },
+    {
+      "redirect": {
+        "from": "docs/plugins/plugin-installation-with-chef-and-puppet",
+        "to": "node/1746"
+      }
+    },
+    {
+      "redirect": {
+        "from": "docs/python/python-web-frameworks",
+        "to": "taxonomy/term/2451"
+      }
+    },
+    {
+      "redirect": {
+        "from": "docs/python/python-tips-and-tricks",
+        "to": "node/1831"
+      }
+    },
+    {
+      "redirect": {
+        "from": "docs/new-relic-browser/browser-apps-list",
+        "to": "node/1826"
+      }
+    },
+    {
+      "redirect": {
+        "from": "docs/new-relic-browser/browser-overview",
+        "to": "node/1841"
+      }
+    },
+    {
+      "redirect": {
+        "from": "docs/python/python-instrumentation-by-config-file",
+        "to": "node/1846"
+      }
+    },
+    {
+      "redirect": {
+        "from": "docs/new-relic-browser/page-views-dashboard",
+        "to": "node/1851"
+      }
+    },
+    {
+      "redirect": {
+        "from": "docs/plugins/ruby-plugin-installation-example",
+        "to": "node/1746"
+      }
+    },
+    {
+      "redirect": {
+        "from": "docs/python/python-hosting-services",
+        "to": "taxonomy/term/2446"
+      }
+    },
+    {
+      "redirect": {
+        "from": "docs/plugins/ruby-plugin-example",
+        "to": "node/1746"
+      }
+    },
+    {
+      "redirect": {
+        "from": "docs/python/python-hosting-mechanisms",
+        "to": "taxonomy/term/2441"
+      }
+    },
+    {
+      "redirect": {
+        "from": "docs/python/python-custom-metrics",
+        "to": "node/1881"
+      }
+    },
+    {
+      "redirect": {
+        "from": "docs/plugins/saas-plugin-configuration-example",
+        "to": "node/1746"
+      }
+    },
+    {
+      "redirect": {
+        "from": "docs/python/python-backend-services",
+        "to": "taxonomy/term/2456"
+      }
+    },
+    {
+      "redirect": {
+        "from": "docs/python/python-agent-quick-start",
+        "to": "node/1896"
+      }
+    },
+    {
+      "redirect": {
+        "from": "docs/new-relic-browser/ajax-dashboard",
+        "to": "node/1891"
+      }
+    },
+    {
+      "redirect": {
+        "from": "docs/python/adding-python-instrumentation",
+        "to": "node/1901"
+      }
+    },
+    {
+      "redirect": {
+        "from": "docs/python/python-custom-instrumentation",
+        "to": "node/1901"
+      }
+    },
+    {
+      "redirect": {
+        "from": "docs/new-relic-browser/javascript-errors-dashboard",
+        "to": "node/1911"
+      }
+    },
+    {
+      "redirect": {
+        "from": "docs/applications-dashboards/geography",
+        "to": "node/1921"
+      }
+    },
+    {
+      "redirect": {
+        "from": "docs/applications-menu/geography",
+        "to": "node/1921"
+      }
+    },
+    {
+      "redirect": {
+        "from": "docs/new-relic-browser/geography-dashboard",
+        "to": "node/1921"
+      }
+    },
+    {
+      "redirect": {
+        "from": "docs/python/python-agent-and-webfaction",
+        "to": "node/1926"
+      }
+    },
+    {
+      "redirect": {
+        "from": "docs/applications-dashboards/browsers",
+        "to": "node/1931"
+      }
+    },
+    {
+      "redirect": {
+        "from": "docs/python/python-agent-integration",
+        "to": "node/1936"
+      }
+    },
+    {
+      "redirect": {
+        "from": "docs/applications-menu/browsers",
+        "to": "node/1931"
+      }
+    },
+    {
+      "redirect": {
+        "from": "docs/new-relic-browser/browsers-dashboard",
+        "to": "node/1931"
+      }
+    },
+    {
+      "redirect": {
+        "from": "docs/python/python-agent-installation",
+        "to": "node/1941"
+      }
+    },
+    {
+      "redirect": {
+        "from": "docs/python/python-agent-configuration",
+        "to": "node/1946"
+      }
+    },
+    {
+      "redirect": {
+        "from": "docs/python/python-agent-and-web2py",
+        "to": "node/1956"
+      }
+    },
+    {
+      "redirect": {
+        "from": "docs/python/python-agent-and-waitress",
+        "to": "node/1961"
+      }
+    },
+    {
+      "redirect": {
+        "from": "docs/python/python-agent-and-uwsgi",
+        "to": "node/1966"
+      }
+    },
+    {
+      "redirect": {
+        "from": "docs/python/python-agent-and-stackato",
+        "to": "node/1976"
+      }
+    },
+    {
+      "redirect": {
+        "from": "docs/python/python-agent-and-scgi",
+        "to": "node/1981"
+      }
+    },
+    {
+      "redirect": {
+        "from": "docs/site/503-errors-in-logs",
+        "to": "node/1986"
+      }
+    },
+    {
+      "redirect": {
+        "from": "docs/python/python-agent-and-paste",
+        "to": "node/1991"
+      }
+    },
+    {
+      "redirect": {
+        "from": "docs/python/python-agent-and-fastcgi",
+        "to": "node/2001"
+      }
+    },
+    {
+      "redirect": {
+        "from": "docs/features/real-user-monitoring",
+        "to": "node/2006"
+      }
+    },
+    {
+      "redirect": {
+        "from": "docs/new-relic-browser/instrumentation-for-page-load-timing",
+        "to": "node/2006"
+      }
+    },
+    {
+      "redirect": {
+        "from": "docs/python/instrumented-python-packages",
+        "to": "node/2011"
+      }
+    },
+    {
+      "redirect": {
+        "from": "docs/features/how-does-real-user-monitoring-work",
+        "to": "node/2021"
+      }
+    },
+    {
+      "redirect": {
+        "from": "docs/new-relic-browser/page-load-timing-process",
+        "to": "node/2021"
+      }
+    },
+    {
+      "redirect": {
+        "from": "docs/python/python-agent-and-mod_wsgi",
+        "to": "node/2026"
+      }
+    },
+    {
+      "redirect": {
+        "from": "docs/python/python-agent-and-heroku",
+        "to": "node/2031"
+      }
+    },
+    {
+      "redirect": {
+        "from": "docs/new-relic-browser/browser-monitoring-and-search-engine-optimization",
+        "to": "node/2036"
+      }
+    },
+    {
+      "redirect": {
+        "from": "docs/python/python-agent-and-gunicorn",
+        "to": "node/2041"
+      }
+    },
+    {
+      "redirect": {
+        "from": "docs/python/python-agent-and-cherrypy",
+        "to": "node/2046"
+      }
+    },
+    {
+      "redirect": {
+        "from": "docs/new-relic-browser/navigation-start-time-unknown",
+        "to": "node/2056"
+      }
+    },
+    {
+      "redirect": {
+        "from": "docs/python/python-agent-and-celery",
+        "to": "node/2061"
+      }
+    },
+    {
+      "redirect": {
+        "from": "docs/general/how-do-i-addremove-hosts",
+        "to": "node/2051"
+      }
+    },
+    {
+      "redirect": {
+        "from": "docs/features/adding-removing-hosts",
+        "to": "node/2051"
+      }
+    },
+    {
+      "redirect": {
+        "from": "docs/python/python-agent-and-ajp",
+        "to": "node/2066"
+      }
+    },
+    {
+      "redirect": {
+        "from": "docs/site/adding-renaming-and-removing-hosts",
+        "to": "node/2051"
+      }
+    },
+    {
+      "redirect": {
+        "from": "docs/new-relic-browser/cached-pages",
+        "to": "node/2071"
+      }
+    },
+    {
+      "redirect": {
+        "from": "docs/python/python-agent-admin-script",
+        "to": "node/2076"
+      }
+    },
+    {
+      "redirect": {
+        "from": "docs/python/page-load-timing-in-python",
+        "to": "node/2081"
+      }
+    },
+    {
+      "redirect": {
+        "from": "docs/python/new-relic-for-python",
+        "to": "node/2091"
+      }
+    },
+    {
+      "redirect": {
+        "from": "docs/new-relic-browser/session-tracking",
+        "to": "node/2086"
+      }
+    },
+    {
+      "redirect": {
+        "from": "docs/new-relic-browser/navigation-timing-api",
+        "to": "node/2006"
+      }
+    },
+    {
+      "redirect": {
+        "from": "docs/instrumentation/time-windows-for-charts",
+        "to": "node/2161"
+      }
+    },
+    {
+      "redirect": {
+        "from": "docs/dashboards-menu/time-windows-for-charts",
+        "to": "node/2161"
+      }
+    },
+    {
+      "redirect": {
+        "from": "docs/instrumentation/selecting-custom-dashboard-metrics",
+        "to": "node/2161"
+      }
+    },
+    {
+      "redirect": {
+        "from": "docs/dashboards-menu/selecting-custom-dashboard-metrics",
+        "to": "node/2161"
+      }
+    },
+    {
+      "redirect": {
+        "from": "docs/dashboards-menu/selecting-custom-dashboard-metrics-legacy",
+        "to": "node/2161"
+      }
+    },
+    {
+      "redirect": {
+        "from": "docs/dashboards-menu/editing-custom-dashboards",
+        "to": "node/2161"
+      }
+    },
+    {
+      "redirect": {
+        "from": "docs/instrumentation/editing-custom-dashboards",
+        "to": "node/2161"
+      }
+    },
+    {
+      "redirect": {
+        "from": "docs/general/what-cookies-does-newrelic-create",
+        "to": "node/2136"
+      }
+    },
+    {
+      "redirect": {
+        "from": "docs/subscriptions/what-cookies-does-newrelic-create",
+        "to": "node/2136"
+      }
+    },
+    {
+      "redirect": {
+        "from": "docs/subscriptions/new-relic-cookies",
+        "to": "node/2136"
+      }
+    },
+    {
+      "redirect": {
+        "from": "docs/new-relic-browser/new-relic-cookies",
+        "to": "node/2136"
+      }
+    },
+    {
+      "redirect": {
+        "from": "docs/dashboards-menu/editing-custom-dashboards-legacy",
+        "to": "node/2161"
+      }
+    },
+    {
+      "redirect": {
+        "from": "docs/features/custom-view-specification",
+        "to": "node/2146"
+      }
+    },
+    {
+      "redirect": {
+        "from": "docs/docs/custom-view-specification",
+        "to": "node/2146"
+      }
+    },
+    {
+      "redirect": {
+        "from": "docs/docs/custom-views",
+        "to": "node/2146"
+      }
+    },
+    {
+      "redirect": {
+        "from": "docs/instrumentation/custom-views",
+        "to": "node/2146"
+      }
+    },
+    {
+      "redirect": {
+        "from": "docs/dashboards-menu/custom-views",
+        "to": "node/2146"
+      }
+    },
+    {
+      "redirect": {
+        "from": "docs/features/api-key",
+        "to": "node/2151"
+      }
+    },
+    {
+      "redirect": {
+        "from": "docs/apis/api-key",
+        "to": "node/2151"
+      }
+    },
+    {
+      "redirect": {
+        "from": "docs/apis/extracting-metric-data",
+        "to": "node/2156"
+      }
+    },
+    {
+      "redirect": {
+        "from": "docs/features/custom-dashboards",
+        "to": "node/2161"
+      }
+    }
+  ],
+  "pages": {
+    "total": 26,
+    "current": 0,
+    "itemCount": 7709,
+    "perPage": 300
+  }
+}
